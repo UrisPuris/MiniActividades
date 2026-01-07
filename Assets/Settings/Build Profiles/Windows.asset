@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 15003, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Windows
+  m_EditorClassIdentifier: UnityEditor.dll::UnityEditor.Build.Profile.BuildProfile
+  m_AssetVersion: 1
+  m_BuildTarget: 19
+  m_Subtarget: 2
+  m_PlatformId: 4e3c793746204150860bf175a9a41a05
+  m_PlatformBuildProfile:
+    rid: 5557874163474759744
+  m_OverrideGlobalSceneList: 1
+  m_Scenes:
+  - m_enabled: 1
+    m_path: Assets/E01/E01.unity
+  - m_enabled: 1
+    m_path: Assets/E02/E02.unity
+  - m_enabled: 1
+    m_path: Assets/E03/E03.unity
+  - m_enabled: 1
+    m_path: Assets/E05/E05.unity
+  - m_enabled: 1
+    m_path: Assets/E06/E06.unity
+  - m_enabled: 1
+    m_path: Assets/E04/E04.unity
+  - m_enabled: 1
+    m_path: Assets/E07/E07.unity
+  - m_enabled: 1
+    m_path: Assets/E08/E08.unity
+  - m_enabled: 1
+    m_path: Assets/E09/E09.unity
+  - m_enabled: 1
+    m_path: Assets/E10/E10.unity
+  - m_enabled: 1
+    m_path: Assets/E11/E11.unity
+  - m_enabled: 1
+    m_path: Assets/E12/E12.unity
+  - m_enabled: 1
+    m_path: Assets/E13/E13.unity
+  - m_enabled: 1
+    m_path: Assets/E14/E14.unity
+  - m_enabled: 1
+    m_path: Assets/E15/E15.unity
+  - m_enabled: 1
+    m_path: Assets/E16/E16.unity
+  - m_enabled: 1
+    m_path: Assets/E17/E17.unity
+  - m_enabled: 1
+    m_path: Assets/E18/E18.unity
+  - m_enabled: 1
+    m_path: Assets/E19/E19.unity
+  - m_enabled: 1
+    m_path: Assets/E20/E20.unity
+  - m_enabled: 1
+    m_path: Assets/E21/E21.unity
+  - m_enabled: 1
+    m_path: Assets/E22/E22.unity
+  - m_enabled: 1
+    m_path: Assets/E23/E23.unity
+  - m_enabled: 1
+    m_path: Assets/E24/E24.unity
+  - m_enabled: 1
+    m_path: Assets/E25/E25.unity
+  - m_enabled: 1
+    m_path: Assets/E26/E26.unity
+  - m_enabled: 1
+    m_path: Assets/E27/E27.unity
+  - m_enabled: 1
+    m_path: Assets/E28/E28.unity
+  - m_enabled: 1
+    m_path: Assets/E29/E29.unity
+  - m_enabled: 1
+    m_path: Assets/E30/E30.unity
+  - m_enabled: 1
+    m_path: Assets/E31/E31.unity
+  - m_enabled: 1
+    m_path: Assets/E32/E32.unity
+  - m_enabled: 1
+    m_path: Assets/E33/E33.unity
+  - m_enabled: 1
+    m_path: Assets/E34/E34.unity
+  - m_enabled: 1
+    m_path: Assets/E35/E35.unity
+  - m_enabled: 1
+    m_path: Assets/E36/E36.unity
+  - m_enabled: 1
+    m_path: Assets/E37/E37.unity
+  - m_enabled: 1
+    m_path: Assets/E38/E38.unity
+  - m_enabled: 1
+    m_path: Assets/E39/E39.unity
+  - m_enabled: 1
+    m_path: Assets/E40/E40.unity
+  - m_enabled: 1
+    m_path: Assets/E41/E41.unity
+  - m_enabled: 1
+    m_path: Assets/E42/E42.unity
+  - m_enabled: 1
+    m_path: Assets/E43/E43.unity
+  - m_enabled: 1
+    m_path: Assets/E44/E44.unity
+  - m_enabled: 1
+    m_path: Assets/E45/E45.unity
+  - m_enabled: 1
+    m_path: Assets/E46/E46.unity
+  - m_enabled: 1
+    m_path: Assets/E47/E47.unity
+  - m_enabled: 1
+    m_path: Assets/E48/E48.unity
+  - m_enabled: 1
+    m_path: Assets/E49/E49.unity
+  - m_enabled: 1
+    m_path: Assets/E50/E50.unity
+  - m_enabled: 1
+    m_path: Assets/E51/E51.unity
+  - m_enabled: 1
+    m_path: Assets/E52/E52.unity
+  - m_enabled: 1
+    m_path: Assets/E53/E53.unity
+  - m_enabled: 1
+    m_path: Assets/E54/E54.unity
+  - m_enabled: 1
+    m_path: Assets/E55/E55.unity
+  - m_enabled: 1
+    m_path: Assets/E56/E56.unity
+  - m_enabled: 1
+    m_path: Assets/E57/E57.unity
+  - m_enabled: 1
+    m_path: Assets/E58/E58.unity
+  - m_enabled: 1
+    m_path: Assets/E59/E59.unity
+  - m_enabled: 1
+    m_path: Assets/E60/E60.unity
+  - m_enabled: 1
+    m_path: Assets/E61/E61.unity
+  - m_enabled: 1
+    m_path: Assets/E62/E62.unity
+  - m_enabled: 1
+    m_path: Assets/E63/E63.unity
+  - m_enabled: 1
+    m_path: Assets/E64/E64.unity
+  - m_enabled: 1
+    m_path: Assets/E65/E65.unity
+  - m_enabled: 1
+    m_path: Assets/E66/e66_blue.unity
+  - m_enabled: 1
+    m_path: Assets/E66/e66_green.unity
+  - m_enabled: 1
+    m_path: Assets/E66/e66_red.unity
+  - m_enabled: 1
+    m_path: Assets/E67/E67_blue.unity
+  - m_enabled: 1
+    m_path: Assets/E67/e67_red.unity
+  - m_enabled: 1
+    m_path: Assets/E68/MainMenue.unity
+  m_HasScriptingDefines: 0
+  m_ScriptingDefines: []
+  m_PlayerSettingsYaml:
+    m_Settings: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 5557874163474759744
+      type: {class: WindowsPlatformSettings, ns: UnityEditor.WindowsStandalone, asm: UnityEditor.WindowsStandalone.Extensions}
+      data:
+        m_Development: 0
+        m_ConnectProfiler: 0
+        m_BuildWithDeepProfilingSupport: 0
+        m_AllowDebugging: 0
+        m_WaitForManagedDebugger: 0
+        m_ManagedDebuggerFixedPort: 0
+        m_ExplicitNullChecks: 0
+        m_ExplicitDivideByZeroChecks: 0
+        m_ExplicitArrayBoundsChecks: 0
+        m_CompressionType: 0
+        m_InstallInBuildFolder: 0
+        m_InsightsSettingsContainer:
+          m_BuildProfileEngineDiagnosticsState: 2
+        m_AdaptivePerformanceEnabled: 0
+        m_WindowsBuildAndRunDeployTarget: 0
+        m_Architecture: 0
+        m_CreateSolution: 0
+        m_CopyPDBFiles: 0
+        m_WindowsDevicePortalAddress: 
+        m_WindowsDevicePortalUsername: 
